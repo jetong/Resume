@@ -6,21 +6,30 @@
 University of California, Berkeley<br/>
 B.A. Mathematics, Music Minor, August 2006<br/>
 
+=====SKILLS=====<br/>
+{|
+|Languages
+|Conversational Cantonese, Spanish
+|-
+|Computer
+|Knowledge of Java
+|-
+|
+|Proficient with Excel, Word, Powerpoint
+|-
+|}
 
 
+=====EXPERIENCE=====<br/>
+'''(August 2010 – Present) Champion School, San Jose'''<br/>
+''Mathematics and Spanish Instructor''<br/>
 
-=====WORK EXPERIENCE=====<br/>
-'''July ‘11- Present     Tech Yahoo, Storage Engineer'''<br/>
-'''Yahoo (YHOO), Sunnyvale, CA'''<br/>
-
-:*Generate and forecast quarterly reports for finance team and storage team on media tape usage, storage consumption, and global inventories.
-:*Worked on Rewire Project: Helped track down idle systems that need to be decommissioned or repurposed.  Submit tickets or Update sql database for missing data or inaccuracy.
-:*Getting Fit Project: Wrote Perl script to reduce the storage cost in off-sited containers, reuse and destroy media tapes that have expired retention. Helped two team members to forecast cost saving in media tape. Documented the script usage and the calculation which derives the cost saving and forecast.
-:*Created Perl script to automate and send out emails to admin on backups that have consecutive fails. Streamline failed backup submitted by admins to rerun backup jobs.
-:*Designed a user friendly perl script that generate report for Storage Architecture team. Script enables user to forecast, upgrade, repurpose and calculate the types of disk model, rpm, disk size by filers or by colo region used.
+:*Teach, motivate, and discipline students of various backgrounds and aptitudes.
+:*Coordinate closely between parents and administration to best help meet students’ goals.
+:*Taught Geometry to a class of struggling 7th graders, and turned them around as individuals.  Over the course of one year, transformed the way they see mathematics and significantly increased their sense of confidence and enjoyment in the subject.
 
 
-'''Oct ‘10 – July '11        TalentBurst Yahoo, Storage Analyst'''<br/>
+'''(November 2010 – Present) TalentBurst Yahoo, Storage Analyst'''<br/>
 '''Yahoo (YHOO), Sunnyvale, CA'''<br/>
 
 :*Create and design Perl scripts to clean up global database
