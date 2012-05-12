@@ -29,8 +29,9 @@ B.A. Mathematics, Music Minor, August 2006<br/>
 :*Taught Geometry to a class of struggling 7th graders, and turned them around as individuals.  Over the course of one year, transformed the way they see mathematics and significantly increased their sense of confidence and enjoyment in the subject.
 
 
-'''(November 2010 – Present) TalentBurst Yahoo, Storage Analyst'''<br/>
-'''Yahoo (YHOO), Sunnyvale, CA'''<br/>
+'''(November 2010 – Present) FLEX College Prep, Los Altos, CA '''<br/>
+''Mathematics Tutor''<br/>
+:*Tutor students in mathematics and prepare them for college and the SATs.
 
 :*Create and design Perl scripts to clean up global database
 :*Work on tickets submitted by finance team or storage team for forecasting or track down servers to decommission.
